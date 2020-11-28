@@ -1,0 +1,6 @@
+a=str(input('introdu primul cuvant '))
+b=str(input('introdu al doilea cuvant'))
+c=str(input('introdu al treilea cuvant '))
+d=str(input('introdu al patrulea cuvant'))
+e=(a+ '' +b +' ' +c + ' ' + d +' ' +'.')
+print('fraza este',e)
